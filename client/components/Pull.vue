@@ -31,4 +31,8 @@
         border-right: 1px solid black;
         padding: 16px;
     }
+    button{
+        font-size: 20px;
+        background-color: lightgreen;
+    }
 </style>
