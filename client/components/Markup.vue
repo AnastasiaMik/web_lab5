@@ -104,4 +104,8 @@
         background-color: white;
         padding: 16px;
     }
+    button {
+        font-sise: 20px;
+        background-color: lightgreen;
+    }
 </style>
